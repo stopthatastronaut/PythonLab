@@ -130,3 +130,6 @@ dmypy.json
 
 # Mac nonsense
 .DS_Store
+
+# image stuff
+/ddg-images/imgout
