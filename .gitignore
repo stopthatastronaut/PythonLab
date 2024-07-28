@@ -133,3 +133,6 @@ dmypy.json
 
 # image stuff
 /ddg-images/imgout
+
+# fuck off the vscode settings cache
+.vscode
