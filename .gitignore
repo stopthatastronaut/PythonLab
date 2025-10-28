@@ -136,3 +136,9 @@ dmypy.json
 
 # fuck off the vscode settings cache
 .vscode
+.terraform
+.terraform.lock.hcl
+.testdata
+
+
+

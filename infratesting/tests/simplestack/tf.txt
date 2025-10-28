@@ -1,0 +1,1050 @@
+[0m[1mmodule.gh-stack-minimal-test.data.env_variable.google_creds: Reading...[0m[0m
+[0m[1mmodule.gh-stack-minimal-test.data.env_variable.google_creds: Read complete after 0s [id=GOOGLE_CREDENTIALS][0m
+[0m[1mmodule.gh-stack-minimal-test.data.http.agent_ip: Reading...[0m[0m
+[0m[1mmodule.gh-stack-minimal-test.data.external.gcloud_command_print_access_token: Reading...[0m[0m
+[0m[1mmodule.gh-stack-minimal-test.data.http.agent_ip: Read complete after 0s [id=http://ipv4.icanhazip.com][0m
+[0m[1mmodule.gh-stack-minimal-test.data.github_repository.workspace: Reading...[0m[0m
+[0m[1mmodule.gh-stack-minimal-test.data.github_repository.api: Reading...[0m[0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_secret_manager_secret_version.launchdarkly_sdk_key: Reading...[0m[0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_secret_manager_secret_version.sendgrid_api_key: Reading...[0m[0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_secret_manager_secret_version.xero_client_secret: Reading...[0m[0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_secret_manager_secret_version.postgres_password: Reading...[0m[0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_organization.org: Reading...[0m[0m
+[0m[1mmodule.gh-stack-minimal-test.data.external.gcloud_command_print_access_token: Read complete after 1s [id=-][0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_secret_manager_secret_version.stripe_secret_key: Reading...[0m[0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_secret_manager_secret_version.xero_webhook_key: Reading...[0m[0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_sql_database_instance.db_source: Reading...[0m[0m
+[0m[1mmodule.gh-stack-minimal-test.data.github_repository.api: Read complete after 0s [id=api][0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_sql_database_instance.shared_target: Reading...[0m[0m
+[0m[1mmodule.gh-stack-minimal-test.data.github_repository.workspace: Read complete after 1s [id=workspace][0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_secret_manager_secret_version.mailchimp_product_key: Reading...[0m[0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_sql_database_instance.shared_target: Read complete after 1s [id=goodhuman-infra][0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_dns_managed_zone.goodhuman_top_zone: Reading...[0m[0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_sql_database_instance.db_source: Read complete after 1s [id=gh-dev][0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_secret_manager_secret_version.twilio_auth_token: Reading...[0m[0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_secret_manager_secret_version.postgres_password: Read complete after 1s [id=projects/846515267451/secrets/PG_PASSWORD/versions/1][0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_secret_manager_secret_version.xero_client_id: Reading...[0m[0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_secret_manager_secret_version.stripe_secret_key: Read complete after 1s [id=projects/846515267451/secrets/STRIPE_SECRET_KEY/versions/1][0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_secret_manager_secret_version.launchdarkly_sdk_key: Read complete after 1s [id=projects/846515267451/secrets/LAUNCH_DARKLY_SDK_KEY/versions/1][0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_secret_manager_secret_version.test1_signer_key: Reading...[0m[0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_secret_manager_secret.db_target_secret: Reading...[0m[0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_dns_managed_zone.goodhuman_top_zone: Read complete after 0s [id=projects/goodhuman-prod/managedZones/goodhuman-me][0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_organization.org: Read complete after 1s [id=organizations/211965284089][0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_secret_manager_secret.db_target_secret: Read complete after 0s [id=projects/goodhuman-infra/secrets/PG_PASSWORD][0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_secret_manager_secret_version.shared_password: Reading...[0m[0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_secret_manager_secret_version.mailchimp_product_key: Read complete after 1s [id=projects/846515267451/secrets/MAILCHIMP_PRODUCT_KEY/versions/1][0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_secret_manager_secret_version.xero_client_secret: Read complete after 2s [id=projects/846515267451/secrets/XERO_CLIENT_SECRET/versions/1][0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_secret_manager_secret_version.xero_webhook_key: Read complete after 2s [id=projects/846515267451/secrets/XERO_WEBHOOK_KEY/versions/1][0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_secret_manager_secret_version.twilio_auth_token: Read complete after 1s [id=projects/846515267451/secrets/TWILIO_AUTH_TOKEN/versions/1][0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_secret_manager_secret_version.sendgrid_api_key: Read complete after 2s [id=projects/846515267451/secrets/SENDGRID_API_KEY/versions/1][0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_secret_manager_secret_version.xero_client_id: Read complete after 1s [id=projects/846515267451/secrets/XERO_CLIENT_ID/versions/1][0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_secret_manager_secret_version.test1_signer_key: Read complete after 2s [id=projects/1072752590718/secrets/TEST1_FIREBASE_SIGNER_KEY/versions/1][0m
+[0m[1mmodule.gh-stack-minimal-test.data.google_secret_manager_secret_version.shared_password: Read complete after 2s [id=projects/1072752590718/secrets/PG_PASSWORD/versions/1][0m
+
+Terraform used the selected providers to generate the following execution
+plan. Resource actions are indicated with the following symbols:
+  [32m+[0m create
+ [36m<=[0m read (data resources)
+[0m
+Terraform will perform the following actions:
+
+[1m  # random_pet.pet_name[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "random_pet" "pet_name" {
+      [32m+[0m [0m[1m[0mid[0m[0m        = (known after apply)
+      [32m+[0m [0m[1m[0mlength[0m[0m    = 2
+      [32m+[0m [0m[1m[0mseparator[0m[0m = "-"
+    }
+
+[1m  # module.gh-stack-minimal-test.data.external.gcloud_command_get_service_account[0m will be read during apply[0m
+  # (config refers to values not yet known)[0m
+[0m [36m<=[0m[0m data "external" "gcloud_command_get_service_account" {
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mprogram[0m[0m = [
+          [32m+[0m [0m"../../get_firebase_service_account.sh",
+          [32m+[0m [0m(known after apply),
+        ]
+      [32m+[0m [0m[1m[0mresult[0m[0m  = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.data.google_service_account.stack_firebase_account[0m will be read during apply[0m
+  # (config refers to values not yet known)[0m
+[0m [36m<=[0m[0m data "google_service_account" "stack_firebase_account" {
+      [32m+[0m [0m[1m[0maccount_id[0m[0m   = (known after apply)
+      [32m+[0m [0m[1m[0mdisplay_name[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0memail[0m[0m        = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m           = (known after apply)
+      [32m+[0m [0m[1m[0mmember[0m[0m       = (known after apply)
+      [32m+[0m [0m[1m[0mname[0m[0m         = (known after apply)
+      [32m+[0m [0m[1m[0munique_id[0m[0m    = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.github_actions_environment_secret.api_firebase_token[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "github_actions_environment_secret" "api_firebase_token" {
+      [32m+[0m [0m[1m[0mcreated_at[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mencrypted_value[0m[0m = (sensitive value)
+      [32m+[0m [0m[1m[0menvironment[0m[0m     = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m              = (known after apply)
+      [32m+[0m [0m[1m[0mrepository[0m[0m      = "api"
+      [32m+[0m [0m[1m[0msecret_name[0m[0m     = "FIREBASE_TOKEN"
+      [32m+[0m [0m[1m[0mupdated_at[0m[0m      = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.github_actions_environment_secret.api_gh_account_creds[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "github_actions_environment_secret" "api_gh_account_creds" {
+      [32m+[0m [0m[1m[0mcreated_at[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mencrypted_value[0m[0m = (sensitive value)
+      [32m+[0m [0m[1m[0menvironment[0m[0m     = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m              = (known after apply)
+      [32m+[0m [0m[1m[0mrepository[0m[0m      = "api"
+      [32m+[0m [0m[1m[0msecret_name[0m[0m     = "GCP_CREDENTIALS"
+      [32m+[0m [0m[1m[0mupdated_at[0m[0m      = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.github_actions_environment_secret.api_project_id[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "github_actions_environment_secret" "api_project_id" {
+      [32m+[0m [0m[1m[0mcreated_at[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mencrypted_value[0m[0m = (sensitive value)
+      [32m+[0m [0m[1m[0menvironment[0m[0m     = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m              = (known after apply)
+      [32m+[0m [0m[1m[0mrepository[0m[0m      = "api"
+      [32m+[0m [0m[1m[0msecret_name[0m[0m     = "PROJECT_ID"
+      [32m+[0m [0m[1m[0mupdated_at[0m[0m      = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.github_actions_environment_secret.workspace_firebase_token[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "github_actions_environment_secret" "workspace_firebase_token" {
+      [32m+[0m [0m[1m[0mcreated_at[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mencrypted_value[0m[0m = (sensitive value)
+      [32m+[0m [0m[1m[0menvironment[0m[0m     = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m              = (known after apply)
+      [32m+[0m [0m[1m[0mrepository[0m[0m      = "workspace"
+      [32m+[0m [0m[1m[0msecret_name[0m[0m     = "FIREBASE_TOKEN"
+      [32m+[0m [0m[1m[0mupdated_at[0m[0m      = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.github_actions_environment_secret.workspace_gh_account_creds[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "github_actions_environment_secret" "workspace_gh_account_creds" {
+      [32m+[0m [0m[1m[0mcreated_at[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mencrypted_value[0m[0m = (sensitive value)
+      [32m+[0m [0m[1m[0menvironment[0m[0m     = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m              = (known after apply)
+      [32m+[0m [0m[1m[0mrepository[0m[0m      = "workspace"
+      [32m+[0m [0m[1m[0msecret_name[0m[0m     = "GCP_CREDENTIALS"
+      [32m+[0m [0m[1m[0mupdated_at[0m[0m      = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.github_actions_environment_secret.workspace_project_id[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "github_actions_environment_secret" "workspace_project_id" {
+      [32m+[0m [0m[1m[0mcreated_at[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mencrypted_value[0m[0m = (sensitive value)
+      [32m+[0m [0m[1m[0menvironment[0m[0m     = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m              = (known after apply)
+      [32m+[0m [0m[1m[0mrepository[0m[0m      = "workspace"
+      [32m+[0m [0m[1m[0msecret_name[0m[0m     = "PROJECT_ID"
+      [32m+[0m [0m[1m[0mupdated_at[0m[0m      = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.github_repository_environment.api_env[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "github_repository_environment" "api_env" {
+      [32m+[0m [0m[1m[0menvironment[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m          = (known after apply)
+      [32m+[0m [0m[1m[0mrepository[0m[0m  = "api"
+    }
+
+[1m  # module.gh-stack-minimal-test.github_repository_environment.workspace_env[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "github_repository_environment" "workspace_env" {
+      [32m+[0m [0m[1m[0menvironment[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m          = (known after apply)
+      [32m+[0m [0m[1m[0mrepository[0m[0m  = "workspace"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_dns_record_set.stack_login[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_dns_record_set" "stack_login" {
+      [32m+[0m [0m[1m[0mid[0m[0m           = (known after apply)
+      [32m+[0m [0m[1m[0mmanaged_zone[0m[0m = "goodhuman-me"
+      [32m+[0m [0m[1m[0mname[0m[0m         = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m      = "goodhuman-prod"
+      [32m+[0m [0m[1m[0mrrdatas[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mtype[0m[0m         = "CNAME"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_dns_record_set.stack_team[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_dns_record_set" "stack_team" {
+      [32m+[0m [0m[1m[0mid[0m[0m           = (known after apply)
+      [32m+[0m [0m[1m[0mmanaged_zone[0m[0m = "goodhuman-me"
+      [32m+[0m [0m[1m[0mname[0m[0m         = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m      = "goodhuman-prod"
+      [32m+[0m [0m[1m[0mrrdatas[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mtype[0m[0m         = "CNAME"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_firebase_hosting_site.stack_login[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_firebase_hosting_site" "stack_login" {
+      [32m+[0m [0m[1m[0mapp_id[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mdefault_url[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m          = (known after apply)
+      [32m+[0m [0m[1m[0mname[0m[0m        = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m     = (known after apply)
+      [32m+[0m [0m[1m[0msite_id[0m[0m     = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.google_firebase_hosting_site.stack_team[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_firebase_hosting_site" "stack_team" {
+      [32m+[0m [0m[1m[0mapp_id[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mdefault_url[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m          = (known after apply)
+      [32m+[0m [0m[1m[0mname[0m[0m        = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m     = (known after apply)
+      [32m+[0m [0m[1m[0msite_id[0m[0m     = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.google_firebase_project.fb_project[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_firebase_project" "fb_project" {
+      [32m+[0m [0m[1m[0mdisplay_name[0m[0m   = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m             = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m        = (known after apply)
+      [32m+[0m [0m[1m[0mproject_number[0m[0m = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.google_firebase_project_location.fb_project_location[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_firebase_project_location" "fb_project_location" {
+      [32m+[0m [0m[1m[0mid[0m[0m          = (known after apply)
+      [32m+[0m [0m[1m[0mlocation_id[0m[0m = "australia-southeast1"
+      [32m+[0m [0m[1m[0mproject[0m[0m     = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.google_firebase_web_app.stack[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_firebase_web_app" "stack" {
+      [32m+[0m [0m[1m[0mapp_id[0m[0m          = (known after apply)
+      [32m+[0m [0m[1m[0mapp_urls[0m[0m        = (known after apply)
+      [32m+[0m [0m[1m[0mdeletion_policy[0m[0m = "ABANDON"
+      [32m+[0m [0m[1m[0mdisplay_name[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m              = (known after apply)
+      [32m+[0m [0m[1m[0mname[0m[0m            = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m         = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.google_firebase_web_app.stack_login[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_firebase_web_app" "stack_login" {
+      [32m+[0m [0m[1m[0mapp_id[0m[0m          = (known after apply)
+      [32m+[0m [0m[1m[0mapp_urls[0m[0m        = (known after apply)
+      [32m+[0m [0m[1m[0mdeletion_policy[0m[0m = "ABANDON"
+      [32m+[0m [0m[1m[0mdisplay_name[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m              = (known after apply)
+      [32m+[0m [0m[1m[0mname[0m[0m            = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m         = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.google_firebaserules_ruleset.storage_rule[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_firebaserules_ruleset" "storage_rule" {
+      [32m+[0m [0m[1m[0mcreate_time[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m          = (known after apply)
+      [32m+[0m [0m[1m[0mmetadata[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mname[0m[0m        = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m     = (known after apply)
+
+      [32m+[0m [0msource {
+          [32m+[0m [0mfiles {
+              [32m+[0m [0m[1m[0mcontent[0m[0m = <<-EOT
+                            rules_version = '2';
+                            service firebase.storage {
+                              match /b/{bucket}/o {
+                                match /{allPaths=**} {
+                                  allow read, write: if request.auth != null;
+                                }
+                              }
+                            }
+                EOT
+              [32m+[0m [0m[1m[0mname[0m[0m    = "firestore.rules"
+            }
+        }
+    }
+
+[1m  # module.gh-stack-minimal-test.google_identity_platform_config.fb_default[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_identity_platform_config" "fb_default" {
+      [32m+[0m [0m[1m[0mautodelete_anonymous_users[0m[0m = true
+      [32m+[0m [0m[1m[0mid[0m[0m                         = (known after apply)
+      [32m+[0m [0m[1m[0mname[0m[0m                       = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m                    = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.google_identity_platform_project_default_config.fb_default[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_identity_platform_project_default_config" "fb_default" {
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mname[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+
+      [32m+[0m [0msign_in {
+          [32m+[0m [0m[1m[0mallow_duplicate_emails[0m[0m = false
+          [32m+[0m [0m[1m[0mhash_config[0m[0m            = (known after apply)
+
+          [32m+[0m [0memail {
+              [32m+[0m [0m[1m[0menabled[0m[0m           = true
+              [32m+[0m [0m[1m[0mpassword_required[0m[0m = true
+            }
+        }
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project.project[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project" "project" {
+      [32m+[0m [0m[1m[0mauto_create_network[0m[0m = true
+      [32m+[0m [0m[1m[0mbilling_account[0m[0m     = "01F56D-1A1085-FFC18D"
+      [32m+[0m [0m[1m[0mid[0m[0m                  = (known after apply)
+      [32m+[0m [0m[1m[0mname[0m[0m                = (known after apply)
+      [32m+[0m [0m[1m[0mnumber[0m[0m              = (known after apply)
+      [32m+[0m [0m[1m[0morg_id[0m[0m              = "211965284089"
+      [32m+[0m [0m[1m[0mproject_id[0m[0m          = (known after apply)
+      [32m+[0m [0m[1m[0mskip_delete[0m[0m         = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.fb_bindings["roles/firebase.sdkAdminServiceAgent"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "fb_bindings" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/firebase.sdkAdminServiceAgent"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.fb_bindings["roles/firebaseauth.admin"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "fb_bindings" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/firebaseauth.admin"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.fb_bindings["roles/iam.serviceAccountTokenCreator"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "fb_bindings" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/iam.serviceAccountTokenCreator"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.fb_bindings["roles/pubsub.admin"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "fb_bindings" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/pubsub.admin"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.fb_bindings["roles/storage.objectAdmin"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "fb_bindings" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/storage.objectAdmin"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.gh_bindings["roles/appengine.deployer"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "gh_bindings" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/appengine.deployer"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.gh_bindings["roles/appengine.serviceAdmin"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "gh_bindings" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/appengine.serviceAdmin"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.gh_bindings["roles/cloudbuild.builds.editor"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "gh_bindings" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/cloudbuild.builds.editor"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.gh_bindings["roles/cloudscheduler.admin"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "gh_bindings" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/cloudscheduler.admin"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.gh_bindings["roles/cloudsql.client"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "gh_bindings" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/cloudsql.client"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.gh_bindings["roles/compute.viewer"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "gh_bindings" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/compute.viewer"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.gh_bindings["roles/firebaseauth.admin"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "gh_bindings" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/firebaseauth.admin"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.gh_bindings["roles/firebasehosting.admin"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "gh_bindings" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/firebasehosting.admin"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.gh_bindings["roles/iam.serviceAccountUser"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "gh_bindings" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/iam.serviceAccountUser"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.gh_bindings["roles/secretmanager.secretAccessor"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "gh_bindings" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/secretmanager.secretAccessor"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.gh_bindings["roles/secretmanager.viewer"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "gh_bindings" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/secretmanager.viewer"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.gh_bindings["roles/storage.objectAdmin"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "gh_bindings" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/storage.objectAdmin"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.gh_bindings["roles/vpcaccess.user"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "gh_bindings" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/vpcaccess.user"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.stack_fb_user["roles/cloudsql.viewer"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "stack_fb_user" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/cloudsql.viewer"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.stack_fb_user["roles/firebase.sdkAdminServiceAgent"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "stack_fb_user" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/firebase.sdkAdminServiceAgent"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.stack_fb_user["roles/firebaseauth.admin"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "stack_fb_user" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/firebaseauth.admin"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.stack_fb_user["roles/iam.serviceAccountOpenIdTokenCreator"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "stack_fb_user" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/iam.serviceAccountOpenIdTokenCreator"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.stack_fb_user["roles/iam.serviceAccountTokenCreator"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "stack_fb_user" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/iam.serviceAccountTokenCreator"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.stack_fb_user["roles/pubsub.admin"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "stack_fb_user" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/pubsub.admin"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.stack_fb_user["roles/storage.admin"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "stack_fb_user" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/storage.admin"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.tf_bindings["roles/cloudsql.admin"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "tf_bindings" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = [
+          [32m+[0m [0m"serviceAccount:gh-terraform@goodhuman-prod.iam.gserviceaccount.com",
+        ]
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/cloudsql.admin"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.tf_bindings["roles/firebaserules.system"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "tf_bindings" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = [
+          [32m+[0m [0m"serviceAccount:gh-terraform@goodhuman-prod.iam.gserviceaccount.com",
+        ]
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/firebaserules.system"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_iam_binding.tf_bindings["roles/iam.securityAdmin"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_iam_binding" "tf_bindings" {
+      [32m+[0m [0m[1m[0metag[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mmembers[0m[0m = [
+          [32m+[0m [0m"serviceAccount:gh-terraform@goodhuman-prod.iam.gserviceaccount.com",
+        ]
+      [32m+[0m [0m[1m[0mproject[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mrole[0m[0m    = "roles/iam.securityAdmin"
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_service.project_services["cloudbilling.googleapis.com"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_service" "project_services" {
+      [32m+[0m [0m[1m[0mdisable_on_destroy[0m[0m = false
+      [32m+[0m [0m[1m[0mid[0m[0m                 = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m            = (known after apply)
+      [32m+[0m [0m[1m[0mservice[0m[0m            = "cloudbilling.googleapis.com"
+
+      [32m+[0m [0mtimeouts {
+          [32m+[0m [0m[1m[0mcreate[0m[0m = "30m"
+          [32m+[0m [0m[1m[0mupdate[0m[0m = "40m"
+        }
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_service.project_services["cloudresourcemanager.googleapis.com"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_service" "project_services" {
+      [32m+[0m [0m[1m[0mdisable_on_destroy[0m[0m = false
+      [32m+[0m [0m[1m[0mid[0m[0m                 = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m            = (known after apply)
+      [32m+[0m [0m[1m[0mservice[0m[0m            = "cloudresourcemanager.googleapis.com"
+
+      [32m+[0m [0mtimeouts {
+          [32m+[0m [0m[1m[0mcreate[0m[0m = "30m"
+          [32m+[0m [0m[1m[0mupdate[0m[0m = "40m"
+        }
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_service.project_services["firebasehosting.googleapis.com"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_service" "project_services" {
+      [32m+[0m [0m[1m[0mdisable_on_destroy[0m[0m = false
+      [32m+[0m [0m[1m[0mid[0m[0m                 = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m            = (known after apply)
+      [32m+[0m [0m[1m[0mservice[0m[0m            = "firebasehosting.googleapis.com"
+
+      [32m+[0m [0mtimeouts {
+          [32m+[0m [0m[1m[0mcreate[0m[0m = "30m"
+          [32m+[0m [0m[1m[0mupdate[0m[0m = "40m"
+        }
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_service.project_services["firebaserules.googleapis.com"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_service" "project_services" {
+      [32m+[0m [0m[1m[0mdisable_on_destroy[0m[0m = false
+      [32m+[0m [0m[1m[0mid[0m[0m                 = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m            = (known after apply)
+      [32m+[0m [0m[1m[0mservice[0m[0m            = "firebaserules.googleapis.com"
+
+      [32m+[0m [0mtimeouts {
+          [32m+[0m [0m[1m[0mcreate[0m[0m = "30m"
+          [32m+[0m [0m[1m[0mupdate[0m[0m = "40m"
+        }
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_service.project_services["iam.googleapis.com"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_service" "project_services" {
+      [32m+[0m [0m[1m[0mdisable_on_destroy[0m[0m = false
+      [32m+[0m [0m[1m[0mid[0m[0m                 = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m            = (known after apply)
+      [32m+[0m [0m[1m[0mservice[0m[0m            = "iam.googleapis.com"
+
+      [32m+[0m [0mtimeouts {
+          [32m+[0m [0m[1m[0mcreate[0m[0m = "30m"
+          [32m+[0m [0m[1m[0mupdate[0m[0m = "40m"
+        }
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_service.project_services["identitytoolkit.googleapis.com"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_service" "project_services" {
+      [32m+[0m [0m[1m[0mdisable_on_destroy[0m[0m = false
+      [32m+[0m [0m[1m[0mid[0m[0m                 = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m            = (known after apply)
+      [32m+[0m [0m[1m[0mservice[0m[0m            = "identitytoolkit.googleapis.com"
+
+      [32m+[0m [0mtimeouts {
+          [32m+[0m [0m[1m[0mcreate[0m[0m = "30m"
+          [32m+[0m [0m[1m[0mupdate[0m[0m = "40m"
+        }
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_service.project_services["redis.googleapis.com"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_service" "project_services" {
+      [32m+[0m [0m[1m[0mdisable_on_destroy[0m[0m = false
+      [32m+[0m [0m[1m[0mid[0m[0m                 = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m            = (known after apply)
+      [32m+[0m [0m[1m[0mservice[0m[0m            = "redis.googleapis.com"
+
+      [32m+[0m [0mtimeouts {
+          [32m+[0m [0m[1m[0mcreate[0m[0m = "30m"
+          [32m+[0m [0m[1m[0mupdate[0m[0m = "40m"
+        }
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_service.project_services["secretmanager.googleapis.com"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_service" "project_services" {
+      [32m+[0m [0m[1m[0mdisable_on_destroy[0m[0m = false
+      [32m+[0m [0m[1m[0mid[0m[0m                 = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m            = (known after apply)
+      [32m+[0m [0m[1m[0mservice[0m[0m            = "secretmanager.googleapis.com"
+
+      [32m+[0m [0mtimeouts {
+          [32m+[0m [0m[1m[0mcreate[0m[0m = "30m"
+          [32m+[0m [0m[1m[0mupdate[0m[0m = "40m"
+        }
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_service.project_services["serviceusage.googleapis.com"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_service" "project_services" {
+      [32m+[0m [0m[1m[0mdisable_on_destroy[0m[0m = false
+      [32m+[0m [0m[1m[0mid[0m[0m                 = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m            = (known after apply)
+      [32m+[0m [0m[1m[0mservice[0m[0m            = "serviceusage.googleapis.com"
+
+      [32m+[0m [0mtimeouts {
+          [32m+[0m [0m[1m[0mcreate[0m[0m = "30m"
+          [32m+[0m [0m[1m[0mupdate[0m[0m = "40m"
+        }
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_service.project_services["sqladmin.googleapis.com"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_service" "project_services" {
+      [32m+[0m [0m[1m[0mdisable_on_destroy[0m[0m = false
+      [32m+[0m [0m[1m[0mid[0m[0m                 = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m            = (known after apply)
+      [32m+[0m [0m[1m[0mservice[0m[0m            = "sqladmin.googleapis.com"
+
+      [32m+[0m [0mtimeouts {
+          [32m+[0m [0m[1m[0mcreate[0m[0m = "30m"
+          [32m+[0m [0m[1m[0mupdate[0m[0m = "40m"
+        }
+    }
+
+[1m  # module.gh-stack-minimal-test.google_project_service.project_services["vpcaccess.googleapis.com"][0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_project_service" "project_services" {
+      [32m+[0m [0m[1m[0mdisable_on_destroy[0m[0m = false
+      [32m+[0m [0m[1m[0mid[0m[0m                 = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m            = (known after apply)
+      [32m+[0m [0m[1m[0mservice[0m[0m            = "vpcaccess.googleapis.com"
+
+      [32m+[0m [0mtimeouts {
+          [32m+[0m [0m[1m[0mcreate[0m[0m = "30m"
+          [32m+[0m [0m[1m[0mupdate[0m[0m = "40m"
+        }
+    }
+
+[1m  # module.gh-stack-minimal-test.google_secret_manager_secret.stack_api_env_yaml[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_secret_manager_secret" "stack_api_env_yaml" {
+      [32m+[0m [0m[1m[0mcreate_time[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mexpire_time[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m          = (known after apply)
+      [32m+[0m [0m[1m[0mname[0m[0m        = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m     = (known after apply)
+      [32m+[0m [0m[1m[0msecret_id[0m[0m   = "API_ENV_YAML"
+
+      [32m+[0m [0mreplication {
+          [32m+[0m [0m[1m[0mautomatic[0m[0m = true
+        }
+    }
+
+[1m  # module.gh-stack-minimal-test.google_secret_manager_secret.stack_client_email[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_secret_manager_secret" "stack_client_email" {
+      [32m+[0m [0m[1m[0mcreate_time[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mexpire_time[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m          = (known after apply)
+      [32m+[0m [0m[1m[0mname[0m[0m        = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m     = (known after apply)
+      [32m+[0m [0m[1m[0msecret_id[0m[0m   = "CLIENT_EMAIL"
+
+      [32m+[0m [0mreplication {
+          [32m+[0m [0m[1m[0mautomatic[0m[0m = true
+        }
+    }
+
+[1m  # module.gh-stack-minimal-test.google_secret_manager_secret.stack_db_metadata[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_secret_manager_secret" "stack_db_metadata" {
+      [32m+[0m [0m[1m[0mcreate_time[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mexpire_time[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m          = (known after apply)
+      [32m+[0m [0m[1m[0mname[0m[0m        = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m     = (known after apply)
+      [32m+[0m [0m[1m[0msecret_id[0m[0m   = "GH_STACK_DB_METADATA"
+
+      [32m+[0m [0mreplication {
+          [32m+[0m [0m[1m[0mautomatic[0m[0m = true
+        }
+    }
+
+[1m  # module.gh-stack-minimal-test.google_secret_manager_secret.stack_metadata[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_secret_manager_secret" "stack_metadata" {
+      [32m+[0m [0m[1m[0mcreate_time[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mexpire_time[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m          = (known after apply)
+      [32m+[0m [0m[1m[0mname[0m[0m        = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m     = (known after apply)
+      [32m+[0m [0m[1m[0msecret_id[0m[0m   = "GH_STACK_METADATA"
+
+      [32m+[0m [0mreplication {
+          [32m+[0m [0m[1m[0mautomatic[0m[0m = true
+        }
+    }
+
+[1m  # module.gh-stack-minimal-test.google_secret_manager_secret.stack_private_key[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_secret_manager_secret" "stack_private_key" {
+      [32m+[0m [0m[1m[0mcreate_time[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mexpire_time[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m          = (known after apply)
+      [32m+[0m [0m[1m[0mname[0m[0m        = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m     = (known after apply)
+      [32m+[0m [0m[1m[0msecret_id[0m[0m   = "PRIVATE_KEY"
+
+      [32m+[0m [0mreplication {
+          [32m+[0m [0m[1m[0mautomatic[0m[0m = true
+        }
+    }
+
+[1m  # module.gh-stack-minimal-test.google_secret_manager_secret_version.stack_api_env_yaml[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_secret_manager_secret_version" "stack_api_env_yaml" {
+      [32m+[0m [0m[1m[0mcreate_time[0m[0m  = (known after apply)
+      [32m+[0m [0m[1m[0mdestroy_time[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0menabled[0m[0m      = true
+      [32m+[0m [0m[1m[0mid[0m[0m           = (known after apply)
+      [32m+[0m [0m[1m[0mname[0m[0m         = (known after apply)
+      [32m+[0m [0m[1m[0msecret[0m[0m       = (known after apply)
+      [32m+[0m [0m[1m[0msecret_data[0m[0m  = (sensitive value)
+      [32m+[0m [0m[1m[0mversion[0m[0m      = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.google_secret_manager_secret_version.stack_client_email[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_secret_manager_secret_version" "stack_client_email" {
+      [32m+[0m [0m[1m[0mcreate_time[0m[0m  = (known after apply)
+      [32m+[0m [0m[1m[0mdestroy_time[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0menabled[0m[0m      = true
+      [32m+[0m [0m[1m[0mid[0m[0m           = (known after apply)
+      [32m+[0m [0m[1m[0mname[0m[0m         = (known after apply)
+      [32m+[0m [0m[1m[0msecret[0m[0m       = (known after apply)
+      [32m+[0m [0m[1m[0msecret_data[0m[0m  = (sensitive value)
+      [32m+[0m [0m[1m[0mversion[0m[0m      = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.google_secret_manager_secret_version.stack_metadata[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_secret_manager_secret_version" "stack_metadata" {
+      [32m+[0m [0m[1m[0mcreate_time[0m[0m  = (known after apply)
+      [32m+[0m [0m[1m[0mdestroy_time[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0menabled[0m[0m      = true
+      [32m+[0m [0m[1m[0mid[0m[0m           = (known after apply)
+      [32m+[0m [0m[1m[0mname[0m[0m         = (known after apply)
+      [32m+[0m [0m[1m[0msecret[0m[0m       = (known after apply)
+      [32m+[0m [0m[1m[0msecret_data[0m[0m  = (sensitive value)
+      [32m+[0m [0m[1m[0mversion[0m[0m      = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.google_secret_manager_secret_version.stack_private_key[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_secret_manager_secret_version" "stack_private_key" {
+      [32m+[0m [0m[1m[0mcreate_time[0m[0m  = (known after apply)
+      [32m+[0m [0m[1m[0mdestroy_time[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0menabled[0m[0m      = true
+      [32m+[0m [0m[1m[0mid[0m[0m           = (known after apply)
+      [32m+[0m [0m[1m[0mname[0m[0m         = (known after apply)
+      [32m+[0m [0m[1m[0msecret[0m[0m       = (known after apply)
+      [32m+[0m [0m[1m[0msecret_data[0m[0m  = (sensitive value)
+      [32m+[0m [0m[1m[0mversion[0m[0m      = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.google_service_account.stack_github_account[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_service_account" "stack_github_account" {
+      [32m+[0m [0m[1m[0maccount_id[0m[0m   = (known after apply)
+      [32m+[0m [0m[1m[0mdisabled[0m[0m     = false
+      [32m+[0m [0m[1m[0mdisplay_name[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0memail[0m[0m        = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m           = (known after apply)
+      [32m+[0m [0m[1m[0mmember[0m[0m       = (known after apply)
+      [32m+[0m [0m[1m[0mname[0m[0m         = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0munique_id[0m[0m    = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.google_service_account_key.fb_key[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_service_account_key" "fb_key" {
+      [32m+[0m [0m[1m[0mid[0m[0m                 = (known after apply)
+      [32m+[0m [0m[1m[0mkey_algorithm[0m[0m      = "KEY_ALG_RSA_2048"
+      [32m+[0m [0m[1m[0mname[0m[0m               = (known after apply)
+      [32m+[0m [0m[1m[0mprivate_key[0m[0m        = (sensitive value)
+      [32m+[0m [0m[1m[0mprivate_key_type[0m[0m   = "TYPE_GOOGLE_CREDENTIALS_FILE"
+      [32m+[0m [0m[1m[0mpublic_key[0m[0m         = (known after apply)
+      [32m+[0m [0m[1m[0mpublic_key_type[0m[0m    = "TYPE_X509_PEM_FILE"
+      [32m+[0m [0m[1m[0mservice_account_id[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mvalid_after[0m[0m        = (known after apply)
+      [32m+[0m [0m[1m[0mvalid_before[0m[0m       = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.google_service_account_key.gh_key[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_service_account_key" "gh_key" {
+      [32m+[0m [0m[1m[0mid[0m[0m                 = (known after apply)
+      [32m+[0m [0m[1m[0mkey_algorithm[0m[0m      = "KEY_ALG_RSA_2048"
+      [32m+[0m [0m[1m[0mname[0m[0m               = (known after apply)
+      [32m+[0m [0m[1m[0mprivate_key[0m[0m        = (sensitive value)
+      [32m+[0m [0m[1m[0mprivate_key_type[0m[0m   = "TYPE_GOOGLE_CREDENTIALS_FILE"
+      [32m+[0m [0m[1m[0mpublic_key[0m[0m         = (known after apply)
+      [32m+[0m [0m[1m[0mpublic_key_type[0m[0m    = "TYPE_X509_PEM_FILE"
+      [32m+[0m [0m[1m[0mservice_account_id[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mvalid_after[0m[0m        = (known after apply)
+      [32m+[0m [0m[1m[0mvalid_before[0m[0m       = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.google_sql_database.stack_db[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_sql_database" "stack_db" {
+      [32m+[0m [0m[1m[0mcharset[0m[0m         = (known after apply)
+      [32m+[0m [0m[1m[0mcollation[0m[0m       = (known after apply)
+      [32m+[0m [0m[1m[0mdeletion_policy[0m[0m = "DELETE"
+      [32m+[0m [0m[1m[0mid[0m[0m              = (known after apply)
+      [32m+[0m [0m[1m[0minstance[0m[0m        = "goodhuman-infra"
+      [32m+[0m [0m[1m[0mname[0m[0m            = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m         = "goodhuman-infra"
+      [32m+[0m [0m[1m[0mself_link[0m[0m       = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.google_sql_user.stack_loader[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_sql_user" "stack_loader" {
+      [32m+[0m [0m[1m[0mhost[0m[0m                    = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m                      = (known after apply)
+      [32m+[0m [0m[1m[0minstance[0m[0m                = "goodhuman-infra"
+      [32m+[0m [0m[1m[0mname[0m[0m                    = (known after apply)
+      [32m+[0m [0m[1m[0mpassword[0m[0m                = (sensitive value)
+      [32m+[0m [0m[1m[0mproject[0m[0m                 = "goodhuman-infra"
+      [32m+[0m [0m[1m[0msql_server_user_details[0m[0m = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.google_storage_bucket.auto_expire[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_storage_bucket" "auto_expire" {
+      [32m+[0m [0m[1m[0mforce_destroy[0m[0m               = true
+      [32m+[0m [0m[1m[0mid[0m[0m                          = (known after apply)
+      [32m+[0m [0m[1m[0mlocation[0m[0m                    = "AUSTRALIA-SOUTHEAST2"
+      [32m+[0m [0m[1m[0mname[0m[0m                        = (known after apply)
+      [32m+[0m [0m[1m[0mproject[0m[0m                     = (known after apply)
+      [32m+[0m [0m[1m[0mpublic_access_prevention[0m[0m    = (known after apply)
+      [32m+[0m [0m[1m[0mself_link[0m[0m                   = (known after apply)
+      [32m+[0m [0m[1m[0mstorage_class[0m[0m               = "STANDARD"
+      [32m+[0m [0m[1m[0muniform_bucket_level_access[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0murl[0m[0m                         = (known after apply)
+
+      [32m+[0m [0mcors {
+          [32m+[0m [0m[1m[0mmax_age_seconds[0m[0m = 3600
+          [32m+[0m [0m[1m[0mmethod[0m[0m          = [
+              [32m+[0m [0m"GET",
+              [32m+[0m [0m"HEAD",
+            ]
+          [32m+[0m [0m[1m[0morigin[0m[0m          = [
+              [32m+[0m [0m"*",
+            ]
+          [32m+[0m [0m[1m[0mresponse_header[0m[0m = [
+              [32m+[0m [0m"*",
+            ]
+        }
+
+      [32m+[0m [0mlifecycle_rule {
+          [32m+[0m [0maction {
+              [32m+[0m [0m[1m[0mtype[0m[0m = "Delete"
+            }
+
+          [32m+[0m [0mcondition {
+              [32m+[0m [0m[1m[0mage[0m[0m                   = 1
+              [32m+[0m [0m[1m[0mmatches_prefix[0m[0m        = []
+              [32m+[0m [0m[1m[0mmatches_storage_class[0m[0m = []
+              [32m+[0m [0m[1m[0mmatches_suffix[0m[0m        = []
+              [32m+[0m [0m[1m[0mwith_state[0m[0m            = (known after apply)
+            }
+        }
+
+      [32m+[0m [0mversioning {
+          [32m+[0m [0m[1m[0menabled[0m[0m = (known after apply)
+        }
+
+      [32m+[0m [0mwebsite {
+          [32m+[0m [0m[1m[0mmain_page_suffix[0m[0m = (known after apply)
+          [32m+[0m [0m[1m[0mnot_found_page[0m[0m   = (known after apply)
+        }
+    }
+
+[1m  # module.gh-stack-minimal-test.google_vpc_access_connector.stack-vpc-connector[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_vpc_access_connector" "stack-vpc-connector" {
+      [32m+[0m [0m[1m[0mid[0m[0m             = (known after apply)
+      [32m+[0m [0m[1m[0mip_cidr_range[0m[0m  = "10.24.204.0/28"
+      [32m+[0m [0m[1m[0mmachine_type[0m[0m   = "e2-micro"
+      [32m+[0m [0m[1m[0mmax_instances[0m[0m  = (known after apply)
+      [32m+[0m [0m[1m[0mmax_throughput[0m[0m = 300
+      [32m+[0m [0m[1m[0mmin_instances[0m[0m  = (known after apply)
+      [32m+[0m [0m[1m[0mmin_throughput[0m[0m = 200
+      [32m+[0m [0m[1m[0mname[0m[0m           = "ghstack-sls-connect"
+      [32m+[0m [0m[1m[0mnetwork[0m[0m        = "default"
+      [32m+[0m [0m[1m[0mproject[0m[0m        = (known after apply)
+      [32m+[0m [0m[1m[0mregion[0m[0m         = "australia-southeast2"
+      [32m+[0m [0m[1m[0mself_link[0m[0m      = (known after apply)
+      [32m+[0m [0m[1m[0mstate[0m[0m          = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.local_file.firebase_config[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "local_file" "firebase_config" {
+      [32m+[0m [0m[1m[0mcontent[0m[0m              = jsonencode({})
+      [32m+[0m [0m[1m[0mcontent_base64sha256[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mcontent_base64sha512[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mcontent_md5[0m[0m          = (known after apply)
+      [32m+[0m [0m[1m[0mcontent_sha1[0m[0m         = (known after apply)
+      [32m+[0m [0m[1m[0mcontent_sha256[0m[0m       = (known after apply)
+      [32m+[0m [0m[1m[0mcontent_sha512[0m[0m       = (known after apply)
+      [32m+[0m [0m[1m[0mdirectory_permission[0m[0m = "0777"
+      [32m+[0m [0m[1m[0mfile_permission[0m[0m      = "0777"
+      [32m+[0m [0m[1m[0mfilename[0m[0m             = "./remoteconfig.template.json"
+      [32m+[0m [0m[1m[0mid[0m[0m                   = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.local_file.firebase_json[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "local_file" "firebase_json" {
+      [32m+[0m [0m[1m[0mcontent[0m[0m              = jsonencode(
+            {
+              [32m+[0m [0mremoteconfig = {
+                  [32m+[0m [0mtemplate = "remoteconfig.template.json"
+                }
+            }
+        )
+      [32m+[0m [0m[1m[0mcontent_base64sha256[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mcontent_base64sha512[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mcontent_md5[0m[0m          = (known after apply)
+      [32m+[0m [0m[1m[0mcontent_sha1[0m[0m         = (known after apply)
+      [32m+[0m [0m[1m[0mcontent_sha256[0m[0m       = (known after apply)
+      [32m+[0m [0m[1m[0mcontent_sha512[0m[0m       = (known after apply)
+      [32m+[0m [0m[1m[0mdirectory_permission[0m[0m = "0777"
+      [32m+[0m [0m[1m[0mfile_permission[0m[0m      = "0777"
+      [32m+[0m [0m[1m[0mfilename[0m[0m             = "./firebase.json"
+      [32m+[0m [0m[1m[0mid[0m[0m                   = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.local_file.firebase_rc[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "local_file" "firebase_rc" {
+      [32m+[0m [0m[1m[0mcontent[0m[0m              = jsonencode({})
+      [32m+[0m [0m[1m[0mcontent_base64sha256[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mcontent_base64sha512[0m[0m = (known after apply)
+      [32m+[0m [0m[1m[0mcontent_md5[0m[0m          = (known after apply)
+      [32m+[0m [0m[1m[0mcontent_sha1[0m[0m         = (known after apply)
+      [32m+[0m [0m[1m[0mcontent_sha256[0m[0m       = (known after apply)
+      [32m+[0m [0m[1m[0mcontent_sha512[0m[0m       = (known after apply)
+      [32m+[0m [0m[1m[0mdirectory_permission[0m[0m = "0777"
+      [32m+[0m [0m[1m[0mfile_permission[0m[0m      = "0777"
+      [32m+[0m [0m[1m[0mfilename[0m[0m             = "./.firebaserc"
+      [32m+[0m [0m[1m[0mid[0m[0m                   = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.random_integer.github_identifier[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "random_integer" "github_identifier" {
+      [32m+[0m [0m[1m[0mid[0m[0m     = (known after apply)
+      [32m+[0m [0m[1m[0mmax[0m[0m    = 99999
+      [32m+[0m [0m[1m[0mmin[0m[0m    = 10000
+      [32m+[0m [0m[1m[0mresult[0m[0m = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.random_password.db_loader_password[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "random_password" "db_loader_password" {
+      [32m+[0m [0m[1m[0mbcrypt_hash[0m[0m      = (sensitive value)
+      [32m+[0m [0m[1m[0mid[0m[0m               = (known after apply)
+      [32m+[0m [0m[1m[0mlength[0m[0m           = 16
+      [32m+[0m [0m[1m[0mlower[0m[0m            = true
+      [32m+[0m [0m[1m[0mmin_lower[0m[0m        = 0
+      [32m+[0m [0m[1m[0mmin_numeric[0m[0m      = 0
+      [32m+[0m [0m[1m[0mmin_special[0m[0m      = 0
+      [32m+[0m [0m[1m[0mmin_upper[0m[0m        = 0
+      [32m+[0m [0m[1m[0mnumber[0m[0m           = true
+      [32m+[0m [0m[1m[0mnumeric[0m[0m          = true
+      [32m+[0m [0m[1m[0moverride_special[0m[0m = "!#$%&*()-_=+[]{}<>:?"
+      [32m+[0m [0m[1m[0mresult[0m[0m           = (sensitive value)
+      [32m+[0m [0m[1m[0mspecial[0m[0m          = true
+      [32m+[0m [0m[1m[0mupper[0m[0m            = true
+    }
+
+[1m  # module.gh-stack-minimal-test.time_sleep.wait_for_account[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "time_sleep" "wait_for_account" {
+      [32m+[0m [0m[1m[0mcreate_duration[0m[0m = "45s"
+      [32m+[0m [0m[1m[0mid[0m[0m              = (known after apply)
+    }
+
+[1m  # module.gh-stack-minimal-test.time_sleep.wait_for_iam[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "time_sleep" "wait_for_iam" {
+      [32m+[0m [0m[1m[0mcreate_duration[0m[0m = "25s"
+      [32m+[0m [0m[1m[0mid[0m[0m              = (known after apply)
+    }
+
+[0m[1mPlan:[0m 83 to add, 0 to change, 0 to destroy.
+[0m[0m
+[1mChanges to Outputs:[0m[0m
+  [32m+[0m [0m[1m[0mdatabase_ip_address[0m[0m = "placeholder"
+  [32m+[0m [0m[1m[0mfirebase_project_id[0m[0m = (known after apply)
+  [32m+[0m [0m[1m[0mstack_created_as[0m[0m    = (known after apply)
+[90m
+─────────────────────────────────────────────────────────────────────────────[0m
+
+Note: You didn't use the -out option to save this plan, so Terraform can't
+guarantee to take exactly these actions if you run "terraform apply" now.
