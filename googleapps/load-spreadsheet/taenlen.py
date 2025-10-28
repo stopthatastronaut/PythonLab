@@ -1,2 +1,1 @@
-# loading spreadsheets from Gogle Apps
-
+# loading spreadsheets from Google Apps
