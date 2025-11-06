@@ -5,7 +5,7 @@ class FixedWindow:
     """
     Uses a fixed-window method to rate limit requests.
     We essentially divide up the epoch into slices based on our window size/period,
-    and get the start second for the latest using a modulo operator
+    and get the start second for the latest slice using a modulo operator
     """
     def __init__(self, period: int, max_reqs: int):
         """_summary_
@@ -16,6 +16,7 @@ class FixedWindow:
         """
         self.max_reqs = max_reqs
         self.period = period
+
         # a dictionary to store our request counts per period.
         # using defaultdict so it automatically assigns a default value
         self.request_tracking = defaultdict(int)

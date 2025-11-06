@@ -25,4 +25,4 @@ def test_1500_requests():
     assert last == False
 
 # flawed test
-# this CAN fail, if our test goes over the boundary of a five minute period
+# this CAN fail, if our test crosses the boundary of a five minute period
